@@ -1,7 +1,6 @@
 this is master branch code.
-<<<<<<< HEAD
 this is feature/01 branch code.
-=======
 this is feature/01 branch code.
 this is feaure/02 branch code.
->>>>>>> 57251cfbb1f1a927014821431ed02c6402dbeb2c
+here some changes for feature/01 branch
+adding some more...
