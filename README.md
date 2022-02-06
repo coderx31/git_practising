@@ -1,4 +1,4 @@
-# git_practising
+# GIT Commands
 
 ## Undo local commits
 ### Keep changes
@@ -12,3 +12,5 @@ for 4 commits
 git reset <fileName>
 echo <fileName> >> .gitignore
 ```
+### Undo pushed commits
+``` git revert <commitId> ```
