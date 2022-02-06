@@ -4,3 +4,11 @@ this is feature/01 branch code.
 this is feaure/02 branch code.
 here some changes for feature/01 branch
 adding some more...
+<<<<<<< HEAD
+=======
+here from master branch
+adding some changes to master branch
+few more.....
+
+for feature branch - 05
+>>>>>>> 25cbb8722ee9b10d6093eb0d3903b7306ce1f1a8
