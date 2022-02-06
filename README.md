@@ -1,6 +1,27 @@
 # GIT Commands
 
-## Undo local commits
+### create git 
+``` git init ```
+
+### add remote url
+``` git remote add <url> ```
+
+### creating branch
+``` git branch <branchName> ```
+
+### move to branch
+``` git checkout <branchName> ```
+
+### create branch and move same time
+``` git checkout -b <branchName> ```
+### pushing code
+``` git push ```
+\n if branch is not in repo try this command
+\n
+``` git push -u origin <branchName> ```
+
+
+### Undo local commits
 ### Keep changes
 ``` git reset HEAD~4 ``` 
 for 4 commits
