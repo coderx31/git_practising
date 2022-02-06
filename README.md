@@ -16,8 +16,8 @@
 ``` git checkout -b <branchName> ```
 ### pushing code
 ``` git push ```
-\n if branch is not in repo try this command
-\n
+<br>if branch is not in repo try this command
+<br>
 ``` git push -u origin <branchName> ```
 
 
