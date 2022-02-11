@@ -35,3 +35,14 @@ echo <fileName> >> .gitignore
 ```
 ### Undo pushed commits
 ``` git revert <commitId> ```
+
+### Rebase
+``` git rebase <branch A> <branch B> ```
+
+
+### Revert Rebase
+``` git rebase --abort ```
+
+
+### Amend most recent commit
+``` git commit --amend ```
