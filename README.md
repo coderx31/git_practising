@@ -46,3 +46,17 @@ echo <fileName> >> .gitignore
 
 ### Amend most recent commit
 ``` git commit --amend ```
+
+### Tagging
+
+## Listing tags
+``` git tag ```
+
+## Creating tag
+``` git tag -a <tag name> <commit> ```
+
+## Sharing Tags
+``` git push origin <tag name> ```
+
+## delete tag
+``` git tag -d <tagname> ```
